@@ -7,7 +7,7 @@ This Java project is part of my first assignment in a Data Structures class. It 
 - **Tuple Class**: Manages an ordered pair of doubles, commonly used here to represent the coefficient and power of a polynomial term.
 - **Polynomial Class**: Handles operations on polynomials, including evaluation at a specific point and calculating definite integrals over a specified range.
 
-## Usage
+## Example Usage
 - Enter the lower bound: 0
 - Enter the upper bound: 1
 - The definite integral of the polynomial -2x^3 + 2/x^3 - 2/x^3 + 2x^2 between (0,1) is -1.5
